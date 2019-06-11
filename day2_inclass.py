@@ -8,3 +8,17 @@ def greeting(k):
     
     
 greeting("Erica")
+
+5/2
+
+#addition#
+5+2
+
+#multiplication#
+5*2
+
+#subtraction#
+5-2
+
+#exponent#
+5**2
